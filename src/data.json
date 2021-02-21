@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "veste1",
+      "image": "/images/veste1.jpg",
+      "title": "Veste homme bleu",
+      "description": "Couleur : MarineType : VestesMarque : SELECTEDGenre : HommeRéférence : 99880VTAH20Référence fabricant : 16074234 B NAVY BLASER",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 29.9
+    },
+    {
+      "_id": "veste2",
+      "image": "/images/veste2.jpg",
+      "title": "Veste homme gris",
+      "description": "Couleur : GrisType : VestesMarque : Tom TailorGenre : HommeRéférence : 80495VTAH19Référence fabricant : 1013183 19393",
+      "availableSizes": ["X", "M", "L"],
+      "price": 18.9
+    },
+    {
+      "_id": "veste3",
+      "image": "/images/veste3.jpg",
+      "title": "Veste homme droite bleu",
+      "description": "Type : VesteMarque : DELAHAYEGenre : HommeCouleur : MarineComposition : 80% Polyester, 19% Viscose, 1% ElasthanneDoublure corps : 100% PolyesterDoublure manches : 100% PolyesterFermeture : BoutonnéeTaille / Coupe : 50 / DroitePoches : Trois poches latérales, une poche poitrine (cousues)Référence : 98436VTRéférence fabricant : 399294-7 090 07Référence : 98436VTAH20.",
+      "availableSizes": ["X", "M", "L"],
+      "price": 14.9
+    },
+    {
+      "_id": "veste4",
+      "image": "/images/veste4.jpg",
+      "title": "Veste homme bleu",
+      "description": "Couleur : MarineType : VestesMarque : A Fish Named FredGenre : HommeRéférence : 102650VTAH20Référence fabricant : 2101103",
+      "availableSizes": ["XL"],
+      "price": 25.9
+    },
+    {
+      "_id": "veste5",
+      "image": "/images/veste5.jpg",
+      "title": "Veste homme bleu",
+      "description": "Couleur : BleuType : VestesMarque : SELECTEDGenre : HommeRéférence : 87661VTPE20Référence fabricant : 16071160 H NAVY BLUE.",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10.9
+    },
+    {
+      "_id": "veste6",
+      "image": "/images/veste6.jpg",
+      "title": "Veste homme droite noire",
+      "description": "Type : VesteMarque : DELAHAYEGenre : HommeCouleur : MarineComposition : 70% Polyester, 26% Rayon, 4% SpandexDoublure corps : 100% PolyesterDoublure manches : 100% PolyesterFermeture : BoutonnéeTaille / Coupe : 50 / DroiteRéférence : 98451VTRéférence fabricant : 490244-7Référence : 98451VTAH20",
+      "availableSizes": ["XL", "XXL"],
+      "price": 49.9
+    }
+  ]
+}
